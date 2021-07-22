@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "501105779960",
+    "project_id": "desafio-flutter-auth",
+    "storage_bucket": "desafio-flutter-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501105779960:android:eae452405c0e2fe8e4c70d",
+        "android_client_info": {
+          "package_name": "br.com.natanaelcoladello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501105779960-3nrfqqm696ldgk4256a5fk2qi226jf02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvYkEpA0PiFuOmIBAFl3z-87vurrTN34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501105779960-3nrfqqm696ldgk4256a5fk2qi226jf02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501105779960-qj4vn6fgb4pepvekonk0hsb0668e1qsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.natanaelcoladello"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
